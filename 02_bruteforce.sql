@@ -5,7 +5,7 @@
 -- Таблица logins:
 -- user_id | login_time | ip_address | success
 
--- Решение через оконную функцию LAG
+-- Решение через оконную функцию LAG 
 WITH with_prev AS (
     SELECT 
         user_id,
