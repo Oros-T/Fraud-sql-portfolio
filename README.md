@@ -21,13 +21,13 @@
 ## 🖼️ Скриншоты
 
 ### Брутфорс
-![Брутфорс](Bruteforce.jpg)
+![Брутфорс](screenshots/Bruteforce.jpg)
 
 ### Дропперы
-![Дропперы](Droppers.jpg)
+![Дропперы](screenshots/Droppers.jpg)
 
 ### Кластеры ботов
-![Кластеры ботов](Malicious%20clusters.jpg)
+![Кластеры ботов](screenshots/Malicious%20clusters.jpg)
 
 ---
 
